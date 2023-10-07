@@ -1,5 +1,5 @@
 # cpp-renderer
-C++ 3D renderer, using SDL2. >ork in progress, nowhere near the point where I would consider it acceptable.
+C++ 3D renderer, using SDL2. Work in progress, nowhere near the point where I would consider it acceptable.
 
 Make sure to include in libraries SDL2 and SDL2_ttf (both in folders `/src/include` and `/src/bin`
 
